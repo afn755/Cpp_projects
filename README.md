@@ -1,4 +1,4 @@
-Account Information System
+<h1>Account Information System</h1>
 
 This C++ program is a simple account information system that allows users to manage bank account records. Users can perform the following operations:
 
